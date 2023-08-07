@@ -14,7 +14,7 @@ from keras.applications.resnet import ResNet50,preprocess_input,decode_predictio
 from keras.preprocessing import image
 from keras.models import Model,load_model
 from tensorflow.keras.utils import to_categorical
-from keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 from keras.layers import Input,Dense,Dropout,Embedding,LSTM
 from keras.layers.merge import add
 
