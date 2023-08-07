@@ -16,7 +16,7 @@ from keras.models import Model,load_model
 from tensorflow.keras.utils import to_categorical
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from keras.layers import Input,Dense,Dropout,Embedding,LSTM
-from keras.layers.merge import add
+from keras.layers import add
 
 model = load_model("model_9.h5")
 model.make_predict_function()
