@@ -10,7 +10,6 @@ numpy
 matplotlib
 keras
 nltk
-string
 json
 time
 pickle
