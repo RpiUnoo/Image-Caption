@@ -10,5 +10,4 @@ numpy
 matplotlib
 keras
 nltk
-pickle
 tensorflow
