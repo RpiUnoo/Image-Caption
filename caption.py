@@ -11,7 +11,7 @@ from time import time
 import pickle
 from keras.applications.vgg16 import VGG16
 from keras.applications.resnet import ResNet50,preprocess_input,decode_predictions
-from keras.preprocessing import image
+from tensorflow.keras.preprocessing import image
 from keras.models import Model,load_model
 from tensorflow.keras.utils import to_categorical
 from tensorflow.keras.preprocessing.sequence import pad_sequences
