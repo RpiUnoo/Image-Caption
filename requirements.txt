@@ -6,3 +6,14 @@ Jinja2
 MarkupSafe
 Werkzeug
 pandas
+numpy
+matplotlib
+keras
+nltk
+re
+string
+json
+time
+pickle
+keras
+tensorflow
