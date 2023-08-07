@@ -10,8 +10,6 @@ numpy
 matplotlib
 keras
 nltk
-json
-time
 pickle
 keras
 tensorflow
