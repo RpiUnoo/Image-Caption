@@ -6,9 +6,9 @@ Jinja2
 MarkupSafe
 Werkzeug
 pandas
-numpy
+numpy = 1.19.2
 matplotlib
 keras
 nltk
-tensorflow-cpu
+tensorflow-cpu == 2.5.0
 
