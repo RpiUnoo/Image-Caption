@@ -10,6 +10,6 @@ numpy == 1.19.2
 matplotlib
 keras
 nltk
-tensorflow-cpu == 2.5.0
+tensorflow-cpu == 2.7.0
 urllib3 == 1.21.1
 protobuf == 3.9.2
