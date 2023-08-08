@@ -10,4 +10,5 @@ numpy
 matplotlib
 keras
 nltk
-tensorflow-cpu==2.5.0
+tensorflow-cpu
+
