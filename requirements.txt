@@ -6,7 +6,7 @@ Jinja2
 MarkupSafe
 Werkzeug
 pandas
-numpy == 1.19.2
+numpy
 matplotlib
 keras == 2.7.0
 nltk
